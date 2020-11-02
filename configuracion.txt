@@ -1,1 +1,2 @@
-Archivo de configuración.
+Archivo de configuraciï¿½n.
+Cambiando el archivo desde el remoto.
