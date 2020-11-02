@@ -1,0 +1,8 @@
+Esta es a prueba del ejercicio Master.
+Agregamos un cambio luego de haber hecho add .
+Cambio realizado para hacer diff.
+CAmbio para nuevo commit.
+Otra linea para reset con cambios.
+Nuevo commit..
+Commit en rama pruebaCommit2.
+
