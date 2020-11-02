@@ -1,2 +1,4 @@
-Archivo de configuraci�n.
+﻿Archivo de configuraci�n.
 Cambiando el archivo desde el remoto.
+Y ahora cambio en repo local.
+
